@@ -83,7 +83,7 @@ const Hero = () => {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-6">
-            <a href="public/krishna Teja_Full Stack Developer.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="KrishnaTeja_Resume.pdf" target="_blank" rel="noopener noreferrer">
               <Button className="hero-button group">
                 <Download className="mr-2 h-5 w-5 group-hover:animate-bounce" />
                 View Resume
